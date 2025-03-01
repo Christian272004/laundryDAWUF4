@@ -1,5 +1,5 @@
 # laundry management system
-Christian Torres
+CTB
 ---
 ## Using Tech:
 
