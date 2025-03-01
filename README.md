@@ -1,5 +1,6 @@
 # laundry management system
-CTB
+CTB 
+Daniela Gamez colaboradora
 ---
 ## Using Tech:
 
