@@ -1,5 +1,5 @@
 # laundry management system
-CTB
+Christian Torres (Propietari)
 ---
 ## Using Tech:
 
