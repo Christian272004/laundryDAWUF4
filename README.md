@@ -1,6 +1,10 @@
 # laundry management system
+
 CTB 
 Daniela Gamez colaboradora
+
+Christian Torres (Propietari)
+
 ---
 ## Using Tech:
 
